@@ -20,6 +20,15 @@ export default function Home() {
               and websites.
             </p>
       </div>
+
+      <div className="bottom">
+            <p>
+             I help companies to design digital products and turn ideas into a
+              functional and delightful experience. I’m focusing on working on
+              interface and digital design – mainly building products, branding
+              and websites.
+            </p>
+      </div>
     </main>
   )
 }
